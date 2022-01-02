@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoozeRebalance", "BoozeRebalance\BoozeRebalance.csproj", "{FE1275DA-8BCB-4E4F-885B-3E5327CBE0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1275DA-8BCB-4E4F-885B-3E5327CBE0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1275DA-8BCB-4E4F-885B-3E5327CBE0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1275DA-8BCB-4E4F-885B-3E5327CBE0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1275DA-8BCB-4E4F-885B-3E5327CBE0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28770389-A9FA-48E3-9D7C-C1DC8C952DFF}
+	EndGlobalSection
+EndGlobal
